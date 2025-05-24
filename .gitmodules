@@ -1,0 +1,6 @@
+[submodule "Simple Projects"]
+	path = Simple Projects
+	url = https://github.com/EdMkn/Simple-Docker-Projects.git
+[submodule "TP-Docker"]
+	path = TP-Docker
+	url = https://github.com/EdMkn/TP-Docker.git
